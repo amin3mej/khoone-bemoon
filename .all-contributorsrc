@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "samsam-ahmadi",
+      "name": "samsam ahmadi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18388480?v=4",
+      "profile": "https://killthejs.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "khoone-bemoon",
+  "projectOwner": "amin3mej",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
